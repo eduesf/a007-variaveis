@@ -1,3 +1,11 @@
+/*const resp1 = prompt ("Você gosta de comida Japonesa?")
+const resp2 = prompt ("Você gosta de comida Mexicana?")
+const resp3 = prompt ("Você gosta de Pizza?")
+
+console.log (Resp1)
+console.log (Resp2)
+console.log (Resp3)*/
+
 const Perg1 = "Você gosta de comida Japonesa?"
 const Perg2 = "Você gosta de comida Mexicana?"
 const Perg3 = "Você gosta de Pizza?"
